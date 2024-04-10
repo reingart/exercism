@@ -2,6 +2,8 @@
 
 Exercises to learn python and practice for coding interviews
 
+Based on [exercism/python](https://github.com/exercism/python), one of many programming language tracks on [exercism(dot)org](https://exercism.org/).
+
 ## Project structure
 
 In the practice folder there are multiple problems to solve.
